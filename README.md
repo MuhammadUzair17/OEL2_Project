@@ -1,6 +1,6 @@
 # Real-Time Object Classification with AR Overlay (YOLOv8)
 
-This project implements a real-time object detection and classification system using a **YOLOv8 pretrained model** with **Augmented Reality (AR) overlays** on a live webcam feed. Detected objects are shown with bounding boxes, class labels, confidence scores, FPS, and runtime statistics.
+This project implements a real-time object detection and detection system using a **YOLOv8 pretrained model** with **Augmented Reality (AR) overlays** on a live webcam feed. Detected objects are shown with bounding boxes, class labels, confidence scores, FPS, and runtime statistics.
 
 ---
 
